@@ -39,7 +39,8 @@ body{
 }
 .donate-mother{
     display: flex;
-    margin-left: 400px;
+    margin-left:  300px;
+    margin-right: 300px;
 }
 .donate-child{
     height: 135px;
@@ -58,7 +59,7 @@ body{
     width: 86px;
     height: 36px;
     margin-top: 50px;
-    margin-left: 20px;
+    margin-left: 10px;
 }
 .donate-last{
     text-align: center;
