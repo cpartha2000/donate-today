@@ -29,9 +29,10 @@ section{
 .link-button{
     background-color: #FF5959;
     padding: 15px 40px;
-    border-radius: 10px;
+    border-radius: 5px;
     text-decoration: none;
     color: white;
+    height: 48px;
 }
 .donate-h1{
     color: black;
@@ -125,4 +126,33 @@ footer{
 }
 #footer-small{
     color: #D9DBE1;
+}
+.email-sec{
+    text-align: center;
+}
+.email-div{
+    display: flex;
+    height: 100px;
+    width: 800px;
+    background-color: #FFF4D6;
+    margin-left: 290px;
+    padding-top: 60px;
+}
+#input-email{
+    height: 48px;
+    width: 275px;
+    font-size: 20px;
+    color: #AA9F9F;
+    background-color: #D9D9D9;
+    margin-left: 200px;
+    border: none;
+}
+#email-sec-p{
+    color: #707070;
+}
+.subscribe-btn{
+    border: none;
+}
+#get-update{
+    font-size: 40px;
 }
