@@ -10,12 +10,13 @@ section{
 }
 .header-p{
     color: #FFFFFF;
-    font-size: 18px;
+    font-size: 15px;
+    font-weight: 50px;
 
 }
 .header-section{
     text-align: center;
-    background-image: url(images/images/donation7.jpg);
+    background-image: url(images/images/donation5.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -114,18 +115,15 @@ hr{
     text-align: left;
     margin-left: 25px;
 }
-footer{
-    text-align: center;
-    background-color: #0B0D17;
-    height: 177px;
+.foundation-div{
+    display: flex;
 }
-#footer-h1{
-    color: #FF5959;
-    padding-top: 50px;
-    font-family: 'Lobster', cursive;
+.common-help{
+    margin: 150px;
 }
-#footer-small{
-    color: #D9DBE1;
+.foundation-sec{
+    background-color: pink;
+    margin: 160px;
 }
 .email-sec{
     text-align: center;
@@ -155,4 +153,17 @@ footer{
 }
 #get-update{
     font-size: 40px;
+}
+footer{
+    text-align: center;
+    background-color: #0B0D17;
+    height: 177px;
+}
+#footer-h1{
+    color: #FF5959;
+    padding-top: 50px;
+    font-family: 'Lobster', cursive;
+}
+#footer-small{
+    color: #D9DBE1;
 }
