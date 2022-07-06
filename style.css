@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.header-p{
+    color: #FFFFFF;
+    font-size: 18px;
+
+}
+.header-section{
+    text-align: center;
+    background-image: url(images/images/donation7.jpg);
+    background-repeat: no-repeat;
+    height: 700px;
+}
+.header-h1{
+    color: white;
+    padding-top: 100px;
+    font-size: 65px;
+}
+.link-button{
+    background-color: #FF5959;
+    padding: 15px 40px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+}
+.donate-h1{
+    color: black;
+    margin-top: 100px;
+    text-align: center;
+    font-size: 45px;
+}
+.donate-p{
+    text-align: center;
+}
+.donate-mother{
+    display: flex;
+    margin-left: 400px;
+}
+.donate-child{
+    height: 135px;
+    width: 123px;
+    background-color: #FAFAFA;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+#special-child{
+    color: #FF5959;
+    background-color: #FFEEEE;
+    border: 2px solid #FF5959;
+}
+.donate-h2{
+    text-align: center;
+    width: 86px;
+    height: 36px;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.donate-last{
+    text-align: center;
+}
+#donate-input{
+    border: none;
+    padding: 5px;
+    font-size: 20px;
+    margin-left: 50px;
+}
+hr{
+    border: 1px solid #DADADA;
+    margin-top: 5px;
+    margin-left: 338px;
+    margin-right: 338px;
+}
+.donate-sec{
+    text-align: center;
+    margin-top: 150px;
+}
+.help-section{
+    display: flex;
+    margin-left: 10px;
+    margin-left: 157px;
+}
+.help-border{
+    height: 360px;
+    width: 352px;
+    margin: 20px 10px;
+}
+#first-help{
+    background-color: #4F9DA61A;
+}
+#second-help{
+    background-color: #FF59591A;
+}
+#third-help{
+    background-color: #FFECEC;
+}
+.help-border img{
+    margin-top: 60px;
+    margin-right: 250px;
+}
+.help-common{
+    text-align: left;
+    margin-left: 25px;
+}
+footer{
+    text-align: center;
+    background-color: #0B0D17;
+    height: 177px;
+}
+#footer-h1{
+    color: #FF5959;
+    padding-top: 50px;
+    font-family: 'Lobster', cursive;
+}
+#footer-small{
+    color: #D9DBE1;
+}
