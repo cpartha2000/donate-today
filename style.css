@@ -5,6 +5,9 @@
 body{
     font-family: 'Montserrat', sans-serif;
 }
+section{
+    margin-bottom: 100px;
+}
 .header-p{
     color: #FFFFFF;
     font-size: 18px;
