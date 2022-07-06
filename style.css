@@ -82,13 +82,14 @@ hr{
 }
 .help-section{
     display: flex;
-    margin-left: 10px;
+    
     margin-left: 157px;
+    margin-right: 200px;
 }
 .help-border{
     height: 360px;
     width: 352px;
-    margin: 20px 10px;
+    margin-left: 15px;
 }
 #first-help{
     background-color: #4F9DA61A;
@@ -101,7 +102,7 @@ hr{
 }
 .help-border img{
     margin-top: 60px;
-    margin-right: 250px;
+    margin-right: 210px;
 }
 .help-common{
     text-align: left;
